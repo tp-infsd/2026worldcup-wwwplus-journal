@@ -1,2 +1,14 @@
 # 2026worldcup-wwwplus-journal
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
